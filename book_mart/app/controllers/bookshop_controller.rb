@@ -1,4 +1,4 @@
 class BookshopController < ApplicationController
-  def index
+  def indexing
   end
 end
